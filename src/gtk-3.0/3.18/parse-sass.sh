@@ -1,3 +1,3 @@
 #! /bin/bash
 
-sass --sourcemap=none --update ./sass:.
+sass --update ./sass:.

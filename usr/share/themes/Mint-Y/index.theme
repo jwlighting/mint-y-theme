@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y
+Name=Mint-Y-Blue
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Mint-Y
 MetacityTheme=Mint-Y
-IconTheme=Mint-Y
-CursorTheme=DMZ-Black
+IconTheme=Mint-X-Aqua
+CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
