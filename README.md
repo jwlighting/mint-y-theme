@@ -1,8 +1,9 @@
 Hints
 =====
 
-- This theme is the Mint-Y theme, but with blue instead of mint-green.
+- This theme is based on the Mint-Y theme, but blue instead of mint-green.
 - Until now, no color changes are made for Cinnamon. Feel free to clone, edit and make a pull request for that.
+- Because the Mint-Y icons are not available in blue, Mint-X-Aqua icons are used. This can be changed easily
 
 Credits
 =======
